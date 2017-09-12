@@ -58,7 +58,7 @@ Try {
 	## Variables: Application
 	[string]$appVendor = 'MestreLab'
 	[string]$appName = 'MNova'
-	[string]$appVersion = '11.0.4'
+	[string]$appVersion = '10.0.2'
 	[string]$appArch = ''
 	[string]$appLang = 'EN'
 	[string]$appRevision = '01'
